@@ -1,0 +1,69 @@
+<p id="p1">Which of the following JSP variables are not available within a JSP expression. Select the one correct answer.</p>
+<p id="p11">out</p>
+<p id="p12">httpsession</p>
+<p id="p13">session</p>
+<p id="p14">request</p>
+<p id="p15">3</p>
+
+<p id="p2">In JSP, how can you know what HTTP method (GET or POST) is used by client request ?</p>
+<p id="p21">by using request.setMethod()</p>
+<p id="p22">impossible to know</p>
+<p id="p23">by using request.getMethod()</p>
+<p id="p24">both a and b</p>
+<p id="p25">3</p>
+
+<p id="p3">Why DB connections are not written directly in JSPs ?</p>
+<p id="p31">Not a standard J2EE architecture</p>
+<p id="p32">Load Balancing is not possible</p>
+<p id="p33">All the above</p>
+<p id="p34">Both (b) and (c)</p>
+<p id="p35">1</p>
+
+<p id="p4">Which of these represent the correct path for the core JSTL library in JSTL version 1.1? Select the one correct answer.</p>
+<p id="p41">http://java.sun.com/jsp/jstl/core</p>
+<p id="p42">http://java.sun.com/jsp/core</p>
+<p id="p43">http://java.sun.com/core</p>
+<p id="p44">http://java.sun.com/jsp/jstl1.1/core</p>
+<p id="p45">3</p>
+
+<p id="p5">Which of the following is legal JSP syntax to print the value of i?</p>
+<p id="p51"><%= i; %></p>
+<p id="p52"><%int i = 1;%></p>
+<p id="p53"><%int i = 1; i; %></p>
+<p id="p54"><%int i = 1%></p>
+<p id="p55">3</p>
+
+<p id="p6">Which of the following correctly represents the following JSP statement?</p>
+<p id="p61">< jsp:statement >x< /jsp:statement ></p>
+<p id="p62">< jsp:declaration >x< /jsp:declaration ></p>
+<p id="p63">< jsp:scriptlet >x< /jsp:scriptlet ></p>
+<p id="p64">< jsp:expression >x< /jsp:expression ></p>
+<p id="p65">3</p>
+
+<p id="p7"> Which page directive should be used in JSP to generate a PDF page?</p>
+<p id="p71">contentType</p>
+<p id="p72">generatePdf</p>
+<p id="p73">typePDF</p>
+<p id="p74">contentPDF</p>
+<p id="p75">4</p>
+
+<p id="p8">Application is instance of which class?</p>
+<p id="p81">javax.servlet.Application</p>
+<p id="p82">javax.servlet.HttpContext</p>
+<p id="p83">javax.servlet.Context</p>
+<p id="p84">javax.servlet.ServletContext</p>
+<p id="p85">3</p>
+
+<p id="p9">Which one is correct order of phases in JSP life cycle?</p>
+<p id="p91">Initialization, Cleanup, Compilation, Execution</p>
+<p id="p92">Initialization, Compilation, Cleanup, Execution</p>
+<p id="p93">Compilation, Initialization, Execution, Cleanup</p>
+<p id="p94">Cleanup, Compilation, Initialization, Execution</p>
+<p id="p95">3</p>
+
+<p id="p10">Which is mandatory in tag?</p>
+<p id="p101">id, class</p>
+<p id="p102">id, type</p>
+<p id="p103">type, property</p>
+<p id="p104">type,id</p>
+<p id="p105">2</p>

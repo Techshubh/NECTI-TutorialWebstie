@@ -1,0 +1,69 @@
+<p id="p1">What is the correct jQuery code to set the background color of all p elements to red?</p>
+<p id="p11">$("p").style("background-color","red");</p>
+<p id="p12"> $("p").layout("background-color","red");</p>
+<p id="p13"> $("p").manipulate("background-color","red");</p>
+<p id="p14">$("p").css("background-color","red");</p>
+<p id="p15">2</p>
+
+<p id="p2">With jQuery, look at the following selector: $("div.intro"). What does it select?</p>
+<p id="p21">The first div element with class="intro"</p>
+<p id="p22"> All div elements with id="intro"</p>
+<p id="p23">All div elements with class="intro"</p>
+<p id="p24">The first div element with id="intro"</p>
+<p id="p25">3</p>
+
+<p id="p3">Which jQuery method is used to hide selected elements?</p>
+<p id="p31">display(none)</p>
+<p id="p32">visible(false)</p>
+<p id="p33">hide()</p>
+<p id="p34">hidden()</p>
+<p id="p35">3</p>
+
+<p id="p4">Which jQuery method is used to set one or more style properties for selected elements?</p>
+<p id="p41">css()</p>
+<p id="p42">style()</p>
+<p id="p43">html()</p>
+<p id="p44">script()</p>
+<p id="p45">3</p>
+
+<p id="p5">Which jQuery method is used to perform an asynchronous HTTP request?</p>
+<p id="p51">jQuery.ajaxSetup()</p>
+<p id="p52">jQuery.ajaxAsync()</p>
+<p id="p53">jQuery.ajax()</p>
+<p id="p54">jQuery.ajaxSync()</p>
+<p id="p55">4</p>
+
+<p id="p6">What scripting language is jQuery written in?</p>
+<p id="p61">JavaScript</p>
+<p id="p62">C++</p>
+<p id="p63">VBScript</p>
+<p id="p64">C#</p>
+<p id="p65">3</p>
+
+<p id="p7">Which jQuery function is used to prevent code from running, before the document is finished loading?</p>
+<p id="p71">$(document).ready()</p>
+<p id="p72">$(body).onload()</p>
+<p id="p73">$(document).load()</p>
+<p id="p74">$(document).reload()</p>
+<p id="p75">2</p>
+
+<p id="p8">Which jQuery method should be used to deal with name conflicts?</p>
+<p id="p81">noNameConflict()</p>
+<p id="p82">conflict()</p>
+<p id="p83">nameConflict()</p>
+<p id="p84">noConflict()</p>
+<p id="p85">3</p>
+
+<p id="p9">Which jQuery method is used to switch between adding/removing one or more classes (for CSS) from selected elements?</p>
+<p id="p91">switchClass()</p>
+<p id="p92">switch()</p>
+<p id="p93">toggleClass()</p>
+<p id="p94">altClass()</p>
+<p id="p95">1</p>
+
+<p id="p10">Look at the following selector: $(":disabled"). What does it select?</p>
+<p id="p101">All hidden elements</p>
+<p id="p102">All elements that does not contain the text "disabled"</p>
+<p id="p103">All disabled input elements</p>
+<p id="p104">All elements containing the text "disabled"</p>
+<p id="p105">3</p>

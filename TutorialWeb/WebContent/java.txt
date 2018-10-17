@@ -1,0 +1,69 @@
+<p id="p1">Which of the below are built-in class loaders in java?</p>
+<p id="p11">Extensions Class Loader</p>
+<p id="p12">Bootstrap Class Loader</p>
+<p id="p13">Runtime Class Loader</p>
+<p id="p14">System Class Loader</p>
+<p id="p15">3</p>
+
+<p id="p2">What is the size of short variable?</p>
+<p id="p21">8 bit</p>
+<p id="p22">16 bit</p>
+<p id="p23">32 bit</p>
+<p id="p24">64 bit</p>
+<p id="p25">2</p>
+
+<p id="p3">Dynamic binding uses which information for binding?</p>
+<p id="p31">type</p>
+<p id="p32">object</p>
+<p id="p33">Both of the above</p>
+<p id="p34">None of the above</p>
+<p id="p35">2</p>
+
+<p id="p4">This is the parent of Error and Exception classes.</p>
+<p id="p41">Throwable</p>
+<p id="p42">Catchable</p>
+<p id="p43">MainError</p>
+<p id="p44">MainException</p>
+<p id="p45">2</p>
+
+<p id="p5">Type IV JDBC driver is a driver</p>
+<p id="p51">which is written in C++</p>
+<p id="p52">which requires an intermediate layer</p>
+<p id="p53">which communicates through Java sockets</p>
+<p id="p54">which translates JDBC function calls into API not native to DBMS</p>
+<p id="p55">4</p>
+
+<p id="p6">Which of the following is used to make an Abstract class?</p>
+<p id="p61">Making atleast one member function as pure virtual function</p>
+<p id="p62">Making atleast one member function as virtual function</p>
+<p id="p63">Declaring as Abstract class using virtual keyword</p>
+<p id="p64">Declaring as Abstract class using static keyword</p>
+<p id="p65">2</p>
+
+<p id="p7">We can make a class abstract by</p>
+<p id="p71">Declaring it abstract using the virtual keyword</p>
+<p id="p72">Making at least one member function as virtual function</p>
+<p id="p73">Making at least one member function as pure virtual function</p>
+<p id="p74">Making all member function const</p>
+<p id="p75">2</p>
+
+<p id="p8">What is the use of final keyword in Java?</p>
+<p id="p81">When a class is made final, a subclass of it can not be created</p>
+<p id="p82">When a method is final, it can not be overridden</p>
+<p id="p83">When a variable is final, it can be assigned value only once</p>
+<p id="p84">All of the above</p>
+<p id="p85">4</p>
+
+<p id="p9">Which one of the following is correct?</p>
+<p id="p91">Java applets can not be written in any programming language</p>
+<p id="p92">An applet is not a small program</p>
+<p id="p93">An applet can be run on its own</p>
+<p id="p94">Applets are embedded in another applications</p>
+<p id="p95">3</p>
+
+<p id="p10">Which of the following statements is false about objects?</p>
+<p id="p101">An instance of a class is an object</p>
+<p id="p102">Objects can access both static and instance data</p>
+<p id="p103">Objects do not permit encapsulation</p>
+<p id="p104">Object is the super class of all other classes</p>
+<p id="p105">3</p>
